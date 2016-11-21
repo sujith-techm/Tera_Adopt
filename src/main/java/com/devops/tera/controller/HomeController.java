@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
  * @since   2014-12-08
  */     
 @Controller
-public class HomeController 
+public class HomeController         
 {
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	     
