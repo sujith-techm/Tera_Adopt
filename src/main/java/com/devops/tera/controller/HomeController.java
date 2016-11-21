@@ -16,7 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class HomeController 
 {
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
-	  
+	     
 	/**   Check Poll SCM
 	 * @return 	ModelAndView	ModelAndView object
 	 */
