@@ -15,7 +15,7 @@ import com.devops.tera.model.UserBean;
  * @version 0.1
  * @since   2014-12-08
  */
-@Controller
+@Controller  
 public class LoginController     
 {
 	private static final Logger logger = LoggerFactory.getLogger(LoginController.class);
