@@ -23,7 +23,7 @@ public class HomeController
 	@RequestMapping(value = "/loadHomePage", method = RequestMethod.POST)
 	public ModelAndView loadHomePage() 
 	{
-		logger.info("In the method loadHomePage of HomeController.");
+		logger.info("In the method loadHomePage of HomeController.");//Test Commit
 		return (new ModelAndView("Home"));
 	}
 }
