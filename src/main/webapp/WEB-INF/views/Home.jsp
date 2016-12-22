@@ -33,7 +33,7 @@
      <td colspan="2"><font color="#000000" style="font-weight: bold;">Test Environment Request Application.</font></td>
   </tr>
    <tr>
-     <td colspan="2"><font color="#000000" style="font-weight: bold;">Welcome user</font></td>
+     <td colspan="2"><font color="#000001" style="font-weight: bold;">Welcome user</font></td>
   </tr>
   <tr>
      <td colspan="2">&nbsp;</td>
