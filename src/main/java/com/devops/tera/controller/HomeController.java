@@ -25,5 +25,5 @@ public class HomeController
 	{
 		logger.info("In the method loadHomePage of HomeController.");//Test Commit
 		return (new ModelAndView("Home"));
-	}    
+	}//Test commit    
 }
