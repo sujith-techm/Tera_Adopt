@@ -28,7 +28,7 @@ public class LoginController
 	public ModelAndView loadLoginPage(@ModelAttribute("UserBean") UserBean userBean) 
 	{
 		logger.info("In the method loadLoginPage of LoginController.");
-		return (new ModelAndView("Login","UserBean",userBean));
+		return (new ModelAndView("Login","UserBean",userBean));//Test Commit
 	}
 
 	/**
