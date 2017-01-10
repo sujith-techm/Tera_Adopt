@@ -29,7 +29,7 @@
            <td><font color="#000000" style="font-weight: bold;">Test Environment Request </font></td>
         </tr> 
          <tr>
-           <td><font color="#000000" style="font-weight: bold;">Welcome</font></td>
+           <td><font color="#000000" style="font-weight: bold;">Welcome to TERA</font></td>
         </tr> 
         
       </table>	 
