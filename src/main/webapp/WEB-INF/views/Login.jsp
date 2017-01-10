@@ -28,9 +28,9 @@
         <tr>
            <td><font color="#000000" style="font-weight: bold;">Test Environment Request </font></td>
         </tr> 
-         <tr>
+         <!-- <tr>
            <td><font color="#000000" style="font-weight: bold;">Welcome to TERA PROJECT</font></td>
-        </tr> 
+        </tr>  -->
         
       </table>	 
 	 </td>
